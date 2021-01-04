@@ -1,0 +1,9 @@
+div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(85, 55, 112);
+    text-align: center;
+    height: 90px;
+    width: 90px;
+}

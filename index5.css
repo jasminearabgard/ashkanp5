@@ -1,0 +1,11 @@
+img {
+    margin: 20px;
+    display: inline-block;
+    border-radius: 100%;
+}
+
+img:hover {
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}

@@ -1,0 +1,42 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.alert {
+    height: 220px;
+    width: 500px;
+    bottom: 35px;
+    right: 20px;
+    margin: 180px auto;
+}
+
+.alert__header {
+    background: rgb(218, 171, 18);
+    font-size: 30px;
+    color: rgb(8, 8, 8);
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+.icon1 {
+    position: relative;
+    top: -30px;
+    float: right;
+}
+
+.alertcontainer {
+    padding: 15px;
+    background-color: rgb(211, 187, 110);
+    color: black;
+    font-size: 1rem;
+}
+
+.icon2 {
+    margin: 10px 160px;
+}
+
+ul li {
+    display: inline-block;
+    list-style-type: none;
+}

@@ -1,0 +1,11 @@
+.square {
+    height: 120px;
+    width: 120px;
+    background-color: rgb(167, 76, 76);
+    margin: 20px;
+    display: inline-block;
+}
+
+.square1 {
+    background-color: cadetblue;
+}

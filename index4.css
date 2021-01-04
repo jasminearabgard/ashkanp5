@@ -1,0 +1,31 @@
+#Progressbar {
+    width: 50%;
+    background-color: #ddd;
+    margin: 10px;
+}
+
+#Bar {
+    width: 70%;
+    height: 30px;
+    background-color: #40944b;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+}
+
+#Progressbar2 {
+    width: 50%;
+    background-color: #ddd;
+    float: left;
+    margin: 10px;
+}
+
+#Bar2 {
+    width: 70%;
+    height: 30px;
+    background-color: #40944b;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    float: right;
+}

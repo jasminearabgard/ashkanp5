@@ -1,0 +1,36 @@
+.search {
+    background-color: mediumpurple;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+
+.search2 {
+    background-color: rgb(102, 70, 165);
+    padding: 10px;
+    margin: 10px;
+    width: 350px;
+}
+
+.search3 {
+    background-color: rgb(118, 83, 187);
+    padding: 10px;
+    margin: 10px;
+    width: 420px;
+}
+
+.search__input {
+    padding: 10px;
+}
+
+.search__button {
+    padding: 10px 15px;
+}
+
+.search__input2 {
+    padding: 20px;
+}
+
+.search__button2 {
+    padding: 20px 30px;
+}
